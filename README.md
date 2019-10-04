@@ -1,6 +1,7 @@
 # OOPAssignments
 
-#Assignments-02
+# Assignments-02
+## part 1
 Use naïve-ticket-machine project and perform tasks in the given order.
 
 1. Create an instance of TicketMachine class and observe the difference as
@@ -69,7 +70,7 @@ Use naïve-ticket-machine project and perform tasks in the given order.
    original version. Make sure that you call the method more than once, when the
    machine is in different states, so that both parts of the conditional statement will
    be executed on separate occasions
-   PART – II
+   ## PART – II
    Use the Code of Digital Clock discussed in the previous Lecture.
 10. Change the clock from a 24-hour clock to a 12-hour clock. Be careful: This is
     not as easy as it might at first seem. In a 12-hour clock, the hours after midnight
